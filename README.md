@@ -20,3 +20,7 @@ and enter them into your `.env` file. Get started by copying the example provide
 ## Translations
 
 Checkout the guide to [adding translations](TRANSLATING.md).
+
+# Fluid Simulation
+
+[https://github.com/PavelDoGreat/WebGL-Fluid-Simulation]https://github.com/PavelDoGreat/WebGL-Fluid-Simulation
